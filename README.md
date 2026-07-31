@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**rafaelmcddev/rafaelmcddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Rafael Dias, Desenvolvedor Backend especializado em Python, Django e arquitetura de sistemas.
 
-Here are some ideas to get you started:
+Esta conta foi criada após um problema de acesso à minha antiga conta do GitHub (https://github.com/rafamcd). Todos os repositórios públicos foram migrados para cá.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- Python
+- Django
+- FastAPI
+- PHP
+- Laravel
+- PostgreSQL
+- MySQL
+- AWS
+- Docker
+- GitHub Actions
+
+## 💼 Conta profissional
+
+Além desta conta, mantenho uma conta voltada ao meu trabalho e projetos profissionais:
+
+➡️ https://github.com/RafaelMascarenhasC
+
+## 🧪 Sobre esta conta
+
+Aqui você encontrará:
+
+- Estudos
+- Demonstrações
+- Projetos pessoais
+- Proof of Concepts (PoCs)
+- Apresentações técnicas
+- Experimentos com novas tecnologias
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/rafael-dias-64016023/
