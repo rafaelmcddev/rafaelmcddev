@@ -1,10 +1,40 @@
 # Olá! 👋
 
-Sou Rafael Dias, Desenvolvedor Backend especializado em Python, Django e arquitetura de sistemas.
+Sou **Rafael Dias**, Desenvolvedor Backend especializado em **Python, Django, arquitetura de sistemas e Inteligência Artificial aplicada ao desenvolvimento de software**.
 
-Esta conta foi criada após um problema de acesso à minha antiga conta do GitHub (https://github.com/rafamcd). Todos os repositórios públicos foram migrados para cá.
+Esta conta é dedicada a estudos, projetos pessoais, demonstrações técnicas e conteúdo open source.
 
-## 🚀 Tecnologias
+---
+
+# 📚 Knowledge Base
+
+Mantenho uma base de conhecimento pública com artigos sobre:
+
+- Python
+- Django
+- Arquitetura de Software
+- Cloud & DevOps
+- Inteligência Artificial
+- Engenharia de Software
+- Produto e Colaboração
+
+🌐 **Acesse:**
+
+➡️ https://rafaelmcddev.github.io
+
+---
+
+# 🚀 Repositórios em destaque
+
+- 🤖 Demo Agentes de IA
+- 🐍 Python e Django
+- ☁️ Cloud & DevOps
+- 📊 Engenharia de Dados
+- 🧪 Proof of Concepts (PoCs)
+
+---
+
+# 💼 Tecnologias
 
 - Python
 - Django
@@ -13,27 +43,27 @@ Esta conta foi criada após um problema de acesso à minha antiga conta do GitHu
 - Laravel
 - PostgreSQL
 - MySQL
-- AWS
+- Redis
 - Docker
+- Kubernetes
+- AWS
 - GitHub Actions
+- Pandas
+- Celery
+- Elasticsearch
+- Grafana
 
-## 💼 Conta profissional
+---
 
-Além desta conta, mantenho uma conta voltada ao meu trabalho e projetos profissionais:
+# 💼 Conta principal
+
+Minha conta profissional:
 
 ➡️ https://github.com/RafaelMascarenhasC
 
-## 🧪 Sobre esta conta
+---
 
-Aqui você encontrará:
+# 📫 Contato
 
-- Estudos
-- Demonstrações
-- Projetos pessoais
-- Proof of Concepts (PoCs)
-- Apresentações técnicas
-- Experimentos com novas tecnologias
-
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/rafael-dias-64016023/
+- 💼 LinkedIn: https://www.linkedin.com/in/rafael-dias-64016023/
+- 🌐 Knowledge Base: https://rafaelmcddev.github.io
